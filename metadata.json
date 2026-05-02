@@ -1,0 +1,6 @@
+{
+  "name": "Lead Intelligence Agent",
+  "description": "AI-powered lead intelligence agent that categorizes, scores, and generates replies for incoming business messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
