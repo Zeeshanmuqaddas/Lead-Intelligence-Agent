@@ -1,3 +1,9 @@
+
+Built the Lead Intelligence Agent SaaS dashboard using Gemini 3 Flash with strict JSON schema integration for accurate lead scoring, classification, and smart reply generation.
+
+Resources
+ Readme
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
